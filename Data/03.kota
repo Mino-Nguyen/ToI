@@ -1,0 +1,1826 @@
+﻿&memo=
+/BG=2,L=1,R=1,
+"How are you feeling?
+nice to see you today!"
+
+/L=62,l=2,NAME=Inumaru,
+...okay! 
+Thats good!
+
+/
+"You can totally count on Mr.
+Inumaru as he has the stash
+properly secured in the record!"
+
+/l=10,
+RING RING RING!!!!
+
+
+/l=5,NAME=Inumaru,
+*BEEP* "Hello?... oh..
+ok.. understood..
+take care!" *BEEP*
+
+/
+It was the school doctor
+he's still in his businesstrip
+
+/
+There's was no problem
+to report to him
+so the call ended quick
+
+/l=21,
+Makes me wonder...
+Before I came here...
+How did things go here...?
+
+/
+I know that I shouldn't think much...
+but I can't help feeling worried..
+
+/
+...What will happen later
+...with Riku?
+
+/NAME=Inumaru,
+...
+
+/l=7,
+ehh... anyway
+I'll do my best as usual..
+
+/l=2,NAME=Inumaru,
+Well then...
+I should start organizing 
+these documents
+
+
+/NAME=Riku,R=2,r=10,
+Mr. Inumaru!! 
+Hello...
+
+/NAME=Inumaru,l=3,
+Oh Good Morning!
+
+/NAME= Inumaru,
+Oh hey! You're not late today!
+
+
+
+/NAME=Riku,r=4,
+...It's because I cant
+wait to see!
+
+/NAME=Inumaru,l=17,L=67,
+See? 
+See what?
+
+/r=14,NAME=Riku,
+Huh?
+
+/R=5,r=16,NAME=Riku,
+oh...
+the...thing you said yesterday..
+
+/l=3,NAME=Inumaru,
+Haha!
+Just kidding!
+Don't worry! I remembered!
+
+/l=6,NAME=Inumaru,
+The teachers had so much fun
+looking at it! How about you? 
+Do you think you'd like it too?
+
+/R=2,r=9,NAME=Riku,
+I do not even know what
+you are talking about!
+
+/r=16,NAME=Riku,
+I don't think its fun...
+I'm not even interested...!
+
+/l=2,
+(Heh.. He's still full of pride 
+and curiosity! After all..
+he's still just a kid!)
+
+/
+(Also back when I was junior High..
+I was obviously curious as well..)
+
+/r=10,NAME=Riku,
+…
+
+/r=9,NAME=Riku,
+…poop!
+
+/
+Seeing him pout is kinda
+heartwarming...
+
+/l=6,
+...This could mean that
+this can actually help him
+in cheering him up!
+
+/r=22,NAME=Riku,
+...?
+
+/l=5,NAME=Inumaru,
+? Ohh!!
+I'm sorry I'm sorry!
+
+/
+(This is the only time that
+I've secretly borrowed 
+someting this naughty!)
+/
+(It's hard to spot this magazine
+in the confiscated stash because
+there's not much things to choose from)
+
+/
+*I reach in my bag*
+
+/BG=2,R=2,L=62,r=11,l=2,CUTIN=1,
+*Gulp*
+
+/QUESTION,J1=1,J2=2,JF=3,A1=Show him a comic book,A2=Show him porn,TIME=300,
+
+
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+
+/LABEL=1,l=2,NAME=Inumaru,
+Here!
+
+/r=12,NAME=Riku,
+...
+
+/l=7,NAME=Inumaru,
+As I promised
+
+/l=3,NAME=Inumaru,
+....A comic book
+
+/r=16,NAME=Riku,
+!? a comic book?!
+
+/NAME=Inumaru,l=6,
+I do this only becasue I like you
+
+/NAME=Riku,r=11,
+...
+
+/r=18,NAME=Riku,
+...?
+
+/R=8,r=17,NAME=Riku,
+...uhh
+
+/R=10,r=16,NAME=Riku,
+This is just a comic
+that I could buy in
+the local store!!
+
+
+/l=7,NAME=Inumaru,
+Yup!
+
+/l=3,NAME=Inumaru,
+Don't all boys
+love manga?
+
+/R=3,r=14,NAME=Riku,
+...!
+
+/L=67,l=2,NAME=Inumaru,
+You have a red face...
+
+/l=6,NAME=Inumaru,
+What were you expecting?
+
+
+/R=2,r=15,NAME=Riku,
+You tricked me!
+
+
+/l=3,NAME=Inumaru,
+Now now...
+Be honest! 
+
+
+/R=5,r=21,NAME=Riku,
+This means you lied!
+I thought you we're different...
+
+
+/l=11,NAME=Inumaru,
+Well if you don't like this
+I'll just show you something else
+
+
+/R=8,r=13,NAME=Riku,
+Huh??
+
+/R=4,r=12,NAME=Riku,
+What I really want to see is...
+
+
+/l=2,NAME=Inumaru,
+Well...go wait in the bed
+
+
+/NAME=Riku,
+..OK
+
+/JUMP=4,
+
+/
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+
+/LABEL=2,NAME=Inumaru,l=7,
+Here!
+
+/r=12,NAME=Riku,
+...
+
+/NAME=Inumaru,
+As I promised...
+
+/l=6,NAME=Inumaru,
+A porn mag.
+
+/NAME=Riku,r=16,
+A... a...
+porn mag!?
+
+/r=12,NAME=Riku,
+Gimme that! lemme see...
+
+/l=7,NAME=Inumaru,
+It's just that will this...
+be the last time you come here?
+
+/r=10,NAME=Riku,
+umm...
+
+/r=11,NAME=Riku,
+If you let me see that 
+then... probably not!
+
+/
+He slowly reaches for it
+
+/NAME=Riku,r=10,
+Can I really look at it?
+
+/NAME=Inumaru,l=2,
+Do you want to?
+
+/R=4,r=12,NAME=Riku,
+Well I'm not an adult yet though...
+What if my mom finds it?
+
+/NAME=Inumaru,l=6,
+It's fine
+I'm just a friend letting you
+borrow it this afternoon
+
+/r=16,NAME=Riku,
+I guess it's alright
+just to look. uhhh..
+I'm a bit nervous...
+
+/l=5,NAME=Inumaru,
+I didn't think you'd be so cautious
+
+/r=6,NAME=Riku,
+well... fine
+I'll read it...
+
+/l=3,NAME=Inumaru,
+You have red ears
+hehe...so cute.
+
+/NAME=Riku,r=18,
+……？…
+
+/R=10,r=20,NAME=Riku,
+Well it's because 
+this is the first time 
+I've seen something like this!
+
+/NAME=Inumaru,l=3,
+Hahaha sorry
+
+/NAME=Riku,r=9,
+ehh!? I'm wha..?
+Who?! err...
+
+/l=5,NAME=Inumaru,
+Well are you ready to see?
+I just want to make sure
+
+/l=2,NAME=Inumaru,
+Well it can't be helped
+I'll show it to you
+
+/r=14,NAME=Riku,
+huh?
+
+/R=4,r=12,NAME=Riku,
+and.. eh...
+
+/NAME=Inumaru,
+Let's go sit on the bed...
+
+/NAME=Riku,r=11,
+OK
+
+/JUMP=4,
+
+/
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+/LABEL=3,r=4,NAME=Riku,
+To tell the truth..
+My mom called me a 
+"Playboy" once..
+
+/NAME=Inumaru,L=67,l=17,
+What? What for?
+
+/NAME=Riku,r=12,
+Hmm? Oh it's because I was
+being naughty using the internet
+
+/l=6,NAME=Inumaru,
+Oh!
+So were you looking at porn in
+the internet?
+
+/L=67,l=17,NAME=Inumaru,
+...on your own computer?
+
+/r=11,NAME=Riku,
+Oh.. I don't have a computer..
+I used my cellphone!
+
+/R=4,r=16,NAME=Riku,
+The.. uhmmm...uhhh...
+
+/l=5,NAME=Inumaru,
+Whoa! So that means that any boy
+can easily see porn anywhere?
+
+/l=6,r=12,NAME=Inumaru,
+Huh. I used to borrow my friend's
+Erotic magazaine...
+Now it's all digital!
+
+/l=1,NAME=Inumaru,
+But isn't the screen of a cellphone 
+small? If so... can you make them 
+bigger?
+
+/r=11,NAME=Riku,
+Yes! you can zoom!
+
+/l=5,NAME=Inumaru,
+Yes.. but wouldn't that make 
+the image look pixelized?
+
+/NAME=Inumaru,
+The pictures will also eat 
+a lot of your memory space!
+
+/r=4,NAME=Riku,
+..Yes! I am familiar with those
+too! 
+
+/l=2,NAME=Inumaru,
+Well... If we compare this
+to a magazine... A magazine
+is better because the image is good
+
+/R=4,r=16,NAME=Riku,
+Yes! But I have to be in front of 
+you so that I can see the magazine!
+It's very embarassing!
+
+/l=3,NAME=Inumaru,
+NAME=Inumaru,
+Hmm... Okay okay!
+Let's go to the bed and
+bring the...
+
+/r=11,NAME=Riku,
+Eh..?
+Oh... Right!
+
+/JUMP=4,
+
+/
+-----------------------------------------------------------------------------------------------------------------------
+
+/LABEL=4,L=62,R=1,l=7,L_FLIP,
+I'm holding an erotic magazine
+in my hand right now in school...
+This gives me an unusual sensation..
+/
+This is for the health of Riku! 
+In order to cheer him up!
+/l=9,
+Yep! That is the only reason why
+I am doing this...
+I am not tempted whatsoever!
+
+/
+I hope I can keep thinking that way...
+
+/l=1,
+Alright! Even though there 
+are many kinds of magazines...
+This would be different!
+
+/L_FLIP,l=3,NAME=Inumaru,
+It would surely keep Riku
+on his toes!
+
+/R=2,r=11,NAME=Riku,
+…
+
+/l=6,NAME=Inumaru,
+Oh! I think I look red!
+(I wonder what he'll think...)
+
+/r=12,NAME=Riku,
+(This makes me a bit 
+uncomfortable...)
+...hmm...?
+
+/R=12,r=22,NAME=Riku,
+Are...you reading the magazine
+too? 
+
+
+/l=2,NAME=Inumaru,
+Huh? Oh well... it may seem like it.
+After all... I'm also just human
+
+/l=11,NAME=Inumaru,
+Even that thing is still desirable
+
+/r=6,NAME=Riku,
+Oh really?
+
+/r=2,NAME=Riku,
+Heh... That's suprising! 
+because you're so much older
+
+/l=5,NAME=Inumaru,
+...In that case~
+I should also look at this magazine
+
+/l=11,NAME=Inumaru,
+And I will act completely fine!
+That should take a lot of effort...
+/R=3,r=7,NAME=Riku,
+Hahaha!
+
+/l=8,NAME=Inumaru,
+What's so funny?
+
+/r=1,NAME=Riku,
+I see what you're saying...
+
+/r=2,NAME=Riku,
+Could it be that... 
+You're still a virgin too?
+
+
+/L=64,l=9,NAME=Inumaru,
+！？
+
+
+/NAME=Riku,
+Correct?
+
+
+/l=14,NAME=Inumaru,
+N-N-no! I have done it once!
+
+/l=5,
+(Saying I'm still a virgin to
+a schoolboy..erhhmm... I HAD to lie)
+
+/R=3,r=13,NAME=Riku,
+Really? Wow!
+Mr. Inumaru had sex!
+I wonder if I can imagine you doing it
+
+/l=8,NAME=Inumaru,
+O-Of course!
+I-I'm already an adult!
+A young adult!
+
+/r=2,NAME=Riku,
+Haha! It's a compliment!
+You act so cute!
+
+/l=5,NAME=Inumaru,
+...Well.. erhmm
+thank you!
+
+/NAME=Riku,L=62,l=2,R=4,r=11,CUTIN=1,
+...So... an erotic book huh...?
+
+/QUESTION,J1=5,J2=6,,JF=7,A1=Ask Riku about reading magazines,A2=Ask Riku if he masturbates,,TIME=300,
+
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+/LABEL=5,L=67,l=17,NAME=Inumaru,
+Riku、 have you ever read
+an erotic magazine before?
+
+/r=12,NAME=Riku,
+Huh?
+Oh、I've never read one before...
+
+/R=4,r=12,NAME=Riku,
+I usually use my cellphone 
+for that、 I've never tried a magazine....
+
+/l=16,NAME=Inumaru,
+Ahh your cellphone...
+I think I've done that a couple
+of times too!
+
+/l=2,NAME=Inumaru,
+After this、 I'm sure
+you'd be feeling all 
+better!
+
+/r=11,NAME=Riku,
+Really? Right now the 
+only feeling I have is being nervous 
+and excited! My heart beats so fast!
+
+/r=3,NAME=Inumaru,
+I see...
+Maybe it's from the smell of the magazine?
+You know、 from the ink?
+
+/r=20,NAME=Riku,
+...Really?
+
+/NAME=Riku,
+…
+
+/l=5,NAME=Inumaru,
+You'll see after you've read
+the magazine!
+
+
+/
+(Hmm.. what should I do?
+To make Riku more into the 
+magazine?)
+/
+(At this point、he should be really
+'excited' now、 he's in that age
+after all...)
+
+/
+(Hmm...What should I say?)
+
+/r=12,NAME=Riku,
+I-I'm really nervous...
+Just even the cover of the magazine
+is already full of naughty stuff...!
+
+/l=11,NAME=Inumaru,
+Okay okay、 so、 would you
+like to see now?
+
+/NAME=Riku,
+Let's see...
+
+/r=16,NAME=Riku,
+"Hardcore Penetration!"
+
+/NAME=Riku,
+"A Man Penetrates a Hole!"
+
+/r=20,NAME=Riku,
+"A Man Penetrates a Different
+Hole!"
+
+/l=5,NAME=Inumaru,
+Ah、The difference between the two
+is just small...
+/l=11,
+(Ah! I wonder if he gets worried about
+the sizes of the men 
+in that magazine...)
+
+/JUMP=8,
+
+/
+
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+/LABEL=6,NAME=Inumaru,l=5,
+Riku、have you ever ...
+
+
+/l=11,NAME=Inumaru,
+...masturbated before?
+
+/R=3,r=14,NAME=Riku,
+?!!
+
+/R=10,r=16,NAME=Riku,
+E-eh?!
+You suddenly sound different!
+
+/l=5,NAME=Inumaru,
+I-I'm sorry! I'm sorry!
+Why did it surprise you that much?
+
+/l=11,NAME=Inumaru,
+Don't you ever talk about that
+with your friends? Like... 
+being curious and all?
+
+/r=9,NAME=Riku,
+...well、I did once...and I 
+didn't know what to do....
+
+/l=11,NAME=Inumaru,
+Oh! I did not mean
+to make you feel embarassed...
+
+/r=12,NAME=Riku,
+Well、I sort of don't wanna remember
+that for now...
+/R=12,r=22,NAME=Riku,
+erhm... when did YOU learn?
+
+/L=65,=l=15,NAME=Inumaru,
+? Me?!
+
+/r=21,NAME=Riku,
+Yes! Since I told you about mine!
+It's unfair for you to avoid that
+question!
+
+/r=7,NAME=Riku,
+An eye for an eye
+A tooth for a tooth
+an erotic story for an erotic story!!
+
+
+/l=5,NAME=Inumaru,
+...!!
+Oh well...
+
+
+/l=7,NAME=Inumaru,
+Well、
+I studied in an all boy school
+
+/NAME=Inumaru,
+I was a pretty good student!
+I had no interest on those naughty
+stuff...
+
+
+/R=3,r=13,NAME=Riku,
+Oh... You did something then?!
+
+
+/l=5,NAME=Inumaru,
+Oh...uhmm..no.
+I didn't do anything there
+
+/l=6,NAME=Inumaru,
+I didn't produce sperm yet...
+I was worried if I ran out
+or something...
+
+
+/R=12,r=22,NAME=Riku,
+aaah... In that case、
+how did you know you 
+can't make sperm yet?
+
+
+/l=20,NAME=Inumaru,
+ah....
+No one could do that yet、
+Only the seniors of the school can...
+
+
+/NAME=Riku,r=7,
+!! Does that mean I beat you?
+
+/l=9,NAME=Inumaru,
+Now now...
+Everyone is different...
+
+
+/r=9,NAME=Riku,
+I-I'm getting worried...
+
+
+/l=5,NAME=Inumaru,
+We'll see soon!
+You want to try with the magazine?
+
+/JUMP=8,
+
+/
+
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+
+/LABEL=7,r=11,NAME=Riku,R_FLIP,
+Well then... I should try looking 
+at it now...
+
+/l=7,NAME=Inumaru,
+Yeah...
+
+/r=4,NAME=Riku,
+...why are you peeping?
+
+/l=11,NAME=Inumaru,
+No no... It's just so that I can
+see the contents since I don't really 
+know... just getting worried a bit...
+
+/NAME=Riku,R_FLIP,r=11,
+Ahhh!
+But you can see me!
+I-it's embarassing!
+
+
+/R=12,r=22,NAME=Riku,
+Besides、 
+shouldn't you know the content?
+It came from you、afterall!
+
+
+
+/l=9,NAME=Inumaru,
+erhm....
+Actually、 that was just confiscated...
+
+/r=17,NAME=Riku,
+Ahh!
+So you just took it...
+
+/JUMP=8,
+
+/
+-----------------------------------------------------------------------------------------------------------------------
+
+
+/LABEL=8,r=11,NAME=Riku,
+...Do you also want to see?
+
+/l=2,NAME=Inumaru,
+...yes、 well...It's 
+just that it looks interesting、 I want
+to read it too、 I hope you dont mind...
+
+/r=17,NAME=Riku,
+You know... you seem softer...
+I'm wondering why you're so different
+from my first impression... 
+
+/L=67,l=17,NAME=Inumaru,
+Do you think so?
+
+/r=12,NAME=Riku,
+...What is this Mr. Inumaru?
+It looks so dirty!
+
+/r=15,NAME=Inumaru,
+It's... 'Bukkake'
+Don't try that!
+It's very unhealthy!
+
+/r=17,NAME=Riku,
+I bet you don't do this 
+thing with other boys...
+
+/l=20,NAME=Inumaru,
+Ah... well、 if it's with you
+then....
+
+/r=12,NAME=Riku,
+Well I don't mind if it's with 
+people I like!
+
+/r=6,NAME=Riku,
+I mean、 if it's with you、 
+Mr. Inumaru、 then it's fine
+as well
+
+
+/l=18,NAME=Inumaru,
+Huh!?
+
+/r=12,NAME=Riku,
+Ahhh、 nevermind...
+
+/r=1,NAME=Riku,
+Since you're on the side、 it's 
+embarassing for me! You should just 
+stay behind me、 so you don't see my...
+
+/NAME=Inumaru,l=2,
+Behind... Here?
+
+/BG=78,,L=1,R=1,NAME=Riku,
+Yeah! 
+It's also more comfortable
+
+/NAME=Inumaru,
+OK! If you're fine with this
+then so am I.
+
+/
+(It's been a long time since
+I got this close to someone before...
+I wonder if he's still small and cute..)
+
+/
+(Would I feel any regrets...? 
+Ehh I shouldn't think about those...
+After all、this seems familiar to me...)
+/
+We're very close together
+even if there's a small partition...
+I wonder if this is okay...
+
+/NAME=Riku,
+Should we start...?
+
+/NAME=Inumaru,
+Oh! It's up to you!
+
+/BG=79,
+　(Here we go!)
+
+/NAME=Riku,
+*Flips page*
+Uaa....
+
+/NAME=Riku,
+*Flips page*
+Whoa! 
+
+
+/
+　Mmmm...
+
+/NAME=Riku,
+Wow...
+/
+(Ahh...
+Riku's truly
+still very young)
+
+/NAME=Riku,
+　A-Amazing...
+
+/NAME=Riku,
+Mmmm..
+
+/BG=80,
+I wonder if...
+
+/
+Judging from his breathing、
+He's very excited!
+
+/BG=81,
+　…!?
+　He's leaning on me!
+
+/
+Riku is so warm...
+
+/
+Ahh!
+I can feel his heart beating fast!
+
+/
+Being this close to someone 
+would mean feeling the heartbeat also...
+
+/L=1,R=1,BG=81,CUTIN=1,
+...err a bit of an awkward silence...
+I should relieve the tension somehow...
+hmmm... what should I do?
+
+
+/QUESTION,J1=9,J2=10,J3=11,JF=12,A1=Touch his nipples,A2=Ask if he is hard,A3=Rub his tummy,TIME=300,
+
+
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+/LABEL=9,BG=82,NAME=Riku,
+~~H-Hya!
+
+/NAME=Inumaru,
+You're so soft、Riku、
+just like a girl
+
+/
+(...I've never really
+touched a girl before...)
+
+
+/NAME=Riku,
+If it's softness、then I'd prefer
+you、Mr. Inumaru!
+
+/NAME=Inumaru,
+Wow..
+
+/NAME=Riku,
+Hmm... I'm really comfortable with you
+
+/NAME=Riku,
+Why did you move suddenly anyway?
+
+/NAME=Inumaru,
+Ah... it's because of the 
+magazine...
+
+/
+Being this close in bed...
+having our bodies close together...
+I wonder where this would lead...?
+
+/
+I should not forget why I'm doing
+this! But... since we're already here...
+Might as well...?
+
+/BG=83,
+Maybe I could stimulate Riku more
+if I touched his sensitive areas..
+
+/NAME=Riku,
+…
+
+/NAME=Riku,
+H-huh? Oh...
+Mr. Inumaru...?
+
+/NAME=Inumaru,
+...erhm...
+This is just like...
+
+/NAME=Inumaru,
+What the people do in that magazine...
+
+
+/NAME=Riku,
+…
+Ngh...nggghh..
+
+/
+(His nipples are hard now...
+Did I overdo it? Or he is still just 
+very sensitive?)
+
+/NAME=Inumaru,
+R-Riku...
+　　
+/NAME=Riku,
+I'm still very sensitive...
+Even with just a touch、I get hard
+
+/NAME=Inumaru,
+Is that so?
+
+/
+(Does that mean he wants 
+me to continue?)
+
+/
+Mmm...
+
+/NAME=Riku,
+U-uu...
+Huh...Huhhh...
+M-Mr.I-Inumaru..
+
+/
+The sound he makes are quite...
+naughty... it makes me nervous
+and excited!
+
+/NAME=Riku,
+M-Mr. I-Inumaru... More...
+Please...
+/
+...I should remember
+that I am the adult here...
+
+/NAME=Riku,
+…
+
+/NAME=Riku,
+Please...touch my dick...
+
+/NAME=Inumaru,
+！！
+
+/
+Should I touch it?
+just a little...
+Yeah! just a little...
+
+/BG=84,
+*I reach for his crotch*
+
+/
+...Whoa...!
+
+/NAME=Riku,
+A-aah! Huh!
+
+/JUMP=13,
+
+/
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+/LABEL=10,NAME=Inumaru,
+Is your
+dick getting stiff?
+
+/BG=85,NAME=Riku,
+Mr.Inu..!
+Don't ask that...
+
+/NAME=Riku,
+It's embarassing…
+
+/NAME=Inumaru,
+I just thought you were getting excited
+I was just curious
+
+/NAME=Riku,
+Why don't you guess?
+Am I hard? Or not?
+
+/NAME=Riku,
+what do you think?
+
+/NAME=Inumaru,
+You are、 aren't you?
+
+/NAME=Riku,
+Ummm...
+Why don't you check?
+
+
+/
+!! oh my
+
+/NAME=Inumaru,
+Well then
+let me touch it
+
+/BG=86,NAME=Inumaru,
+If it's not stiff... then
+I guess I would have guessed wrong
+
+/
+　Mmm..
+
+
+/NAME=Riku,
+A-ahh
+
+
+/JUMP=13,
+
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+/LABEL=11,BG=87,NAME=Riku,
+Hahaha!
+
+/NAME=Riku,
+Mr. Inumaru... I'm
+very ticklish!
+
+/NAME=Inumaru,
+I'm not even tickling you yet...
+
+/NAME=Inumaru,
+You really are very ticklish!
+
+/
+*Wobble Wobble*
+His tummy is cute!
+
+
+/NAME=Inumaru,
+Riku、
+Hugging your belly makes me
+think about naughty stuff...
+
+/NAME=Riku,
+Ah！！
+
+/NAME=Riku,
+...That makes me happy、Mr. Inumaru!
+People often tease me for being fat...
+
+/NAME=Inumaru,
+I was also teased before...
+
+/NAME=Inumaru,
+Now I'm more of a bear...
+but its fine
+
+
+/NAME=Riku,
+Is it because you're hairy now?
+
+/NAME=Inumaru,
+Well、girls said I was a
+bear because I was fat...
+
+/NAME=Riku,
+Aaaah...
+
+/NAME=Inumaru,
+...How about you、Riku、What 
+do you think about me?
+
+/NAME=Riku,
+Hmmm...I think that you're
+more like a friendly 
+older brother...
+
+/BG=88,
+(!! He didn't compare me to an animal...
+That... makes me happy somehow...)
+
+/NAME=Inumaru,
+Ahh、a brother!
+Yes、I am like you brother... But don't 
+forget that I'm also a teacher here
+
+/NAME=Riku,
+Yes! A teacher for 
+'naughty' students!
+
+/NAME=Inumaru,
+Ah！
+I'm serious about being a teacher!
+But... you're special、Riku.
+
+/NAME=Riku,
+…^^
+If you want to touch me more、
+you can touch me! It's okay...
+
+/NAME=Riku,
+It feels good too when I touch
+myself...
+
+/NAME=Inumaru,
+Really?
+
+/NAME=Riku,
+…yeah!
+
+/NAME=Inumaru,
+Would it feel better if...
+
+/NAME=Inumaru,
+I do this...?
+
+/BG=89,NAME=Riku,
+A-aah! Uwaaa! 
+
+/NAME=Inumaru,
+Oh?
+
+/NAME=Riku,
+A-Ahh! T-tsuuu
+...Ah!!
+
+/NAME=Inumaru,
+Naughty Naughty!
+What if I go lower?
+
+/
+I'm touching him just below the belly...
+If I go a bit lower、then surely I'll
+be feeling his dick...
+
+
+/JUMP=13,
+
+/
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+/LABEL=12,
+（I wonder how he feels 
+about reading that...)
+/
+(I haven't been this close
+with another person
+for a long time now...)
+
+/
+…
+
+/BG=90,
+...Ah! I wonder if he'll notice
+this... It seems like he
+is glued to the magazine...
+/
+I'm getting so hard now...
+
+/
+Oh... This is making me
+nervous... This is veryperverted... 
+...not to mention、 illegal!
+
+/
+Now I'm really curious...
+Is he really hard now?
+I have to know...!
+
+/NAME=Riku,
+…
+
+/NAME=Riku,
+...Mr. Inumaru?
+
+
+/NAME=Inumaru,
+I-is there something wrong...?
+
+/NAME=Riku,
+Something feels hard
+behind me...
+
+/NAME=Inumaru,
+Ahh! He suddenly formed a tent
+in his shorts!
+
+/BG=86,
+Now I really have to know!
+
+/NAME=Riku,
+O-ohh...
+
+
+/JUMP=13,
+
+/
+
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+
+
+
+/LABEL=13,NAME=Inumaru,
+E-eh?
+
+/NAME=Inumaru,
+!? You're pretty hard!
+
+
+/NAME=Riku,
+I think it's
+obvious now that you can see it!
+
+/NAME=Inumaru,
+Yeah I can see it...
+
+/NAME=Inumaru,
+....
+
+
+/BG=91,
+(Whoaa! It's very big!)
+
+/NAME=Riku,
+...Touch it...
+
+/NAME=Inumaru,
+!! O-oh...
+
+/
+　(I can't even fit my hand around it!)
+
+/
+The dick that I'm holding right now 
+belongs to a boy... and it's huge!
+
+/NAME=Riku,
+A-ahh ahhhhh!
+
+/NAME=Riku,L=1,R=1,BG=91,CUTIN=1,
+…
+
+
+/QUESTION,J1=14,J2=15,JF=16,A1=Will you play with yourself?,A2=Let me take care of you,TIME=300,
+
+/LABEL=14,NAME=Inumaru,
+So...Will you play with youself...?
+
+/NAME=Riku,
+R-right here?!
+
+/NAME=Inumaru,
+…yeah... where else?
+
+/NAME=Riku,
+…B-B-But..!
+
+/NAME=Inumaru,
+All right all right...
+
+/
+*rub rub*
+
+/NAME=Riku,
+Ohh Ohhh! 
+...
+
+/NAME=Inumaru,
+Can you bring it out? Riku?
+
+/
+Hmm there seems to be a wetspot...
+
+/NAME=Inumaru,
+You have a wetspot、Riku...
+It's bad if people see that
+because they'd think you're naughty...
+
+/NAME=Riku,
+Huh...Huh...
+They don't say that...
+
+/
+*Squeeze*
+
+/NAME=Riku,
+Nghh~~
+That feels good...
+
+/NAME=Riku,
+...ahh! That'll get me 
+really wet...!
+
+/BG=92,
+Riku unzips his pants and
+released his dick...
+
+/NAME=Riku,
+Mr. Inumaru... don't look...
+it's embarassing...
+
+/NAME=Inumaru,
+Don't worry...
+I can't see it from here!
+
+/
+...ever since he started reading
+that magazine... his dick was growing 
+to that full size...
+
+/
+I never expected it to reach up to here!
+I am totally unprepared for this...
+I better think of something quick!
+
+/BG=93,NAME=Inumaru,
+Well then... Instead of looking at your dick、
+I'd touch this instead
+so that I wont see it.
+
+/NAME=Riku,
+Guhh! Ahh! M-Mr. Inumaru...
+
+/
+　Riku's nipples seems hard as well
+
+/NAME=Riku,
+Aah! Aah!
+That feels good Mr. Inumaru!
+
+/
+Riku...I'm sorry...
+It's good that you're feeling pleasure
+But I cannot resist looking at your dick
+
+/
+...!! Wow!
+It looks huge! Like a thick log
+coming out of your pants!
+
+/NAME=Riku,
+*Pant* *Pant*
+
+/
+Will he still grow?!
+It already looks like an adults dick!
+
+/
+I wonder what will happen in the future...
+That'll be hard to imagine!
+
+
+/
+Err... There are a number of things 
+I'd like to do with cute kids...
+Naughty things...
+
+/NAME=Riku,
+Mr. Inumaru~~~! I-I'm...
+
+/
+*Gulp*
+This reminds me of my days in the all
+boys' school...
+
+/NAME=Riku,
+Ah..ahh
+Huh...uwahh..
+Huh...huhhhhh
+
+/NAME=Riku,
+Ughh ughh!!
+I-I'm cumming! I'm cumming!
+~Uwah...
+
+/NAME=Riku,
+Just...a..bit...more..
+ughhhh! ughhhh!!
+~Uwaaaaaaah!
+
+
+/BG=94,NAME=Riku,
+Ughh ughhhh ughhhhhh!
+
+
+/NAME=Inumaru,
+!! 
+Wow!!
+
+/BG=95,
+He came! Some even hit my face...!
+Amazing how much he can cum!
+
+/NAME=Inumaru,
+That was amazing、Riku...
+
+/NAME=Riku,
+*Pant* *Pant*
+I told you not to look!
+It was embarassing...
+
+/NAME=Inumaru,
+What? Oh! I'm sorry...
+I only looked just now、promise!
+
+/
+(Heh、 well I had been watching the 
+whole time actually....)
+
+/NAME=Riku,
+Oh! Did I hit you...?
+I'm sorry Mr. Inumaru...
+
+/NAME=Inumaru,
+Ah! No no! It's okay...
+I promise!
+That felt good、didn't it? 
+
+/NAME=Riku,
+...yeah
+
+/NAME=Riku,
+It felt really good、
+Mr. Inumaru
+
+
+/
+*Heart beating fast*
+Oh! We should clean up!
+
+/BG=2,L=62,R=50,r=12,l=2,NAME=Inumaru,
+We need some tissue...
+
+
+/r=16,
+…yeah
+
+/
+...
+
+/l=13,r=14,
+(Random boy going in the infirmary)
+"Hello..? Is the doctor here?
+I am injured!"
+
+/l=9,
+This is bad! We have no tissue and someone
+is in the infirmary!
+
+/NAME=Inumaru,
+Riku! Don't make much sounds okay?
+I'll do something to clean this mess...
+
+/CUTIN=17,L=1,R=1,NAME=Riku,
+What?! No don't! That's dirty!
+
+/
+I cleaned his dick with my mouth...
+It was the only way
+
+/
+It would feet mushy and would taste like soap...
+I even had to clean the few hairs that he had!
+I needed to lick everything clean of cum
+
+/NAME=Riku,
+Huh! you'll do what..?!
+
+/
+Riku's looking at me with a red face
+
+/
+*Lick* *Lick*
+
+/
+In the end、I even had to suck the semen
+that was late to come out...
+I had to suck it out quickly
+
+/CUTIN=1,L=65,L_FLIP,NAME=Inumaru,
+Okay! I'm sorry、I was attending another
+sick student... Now... where are you
+injured?
+
+/L=1,
+Riku was still flushed and still had
+a red face... he was just looking at 
+me...
+
+/END=R06.html,
+
+/
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+
+/LABEL=15,NAME=Inumaru,
+Want me to help you?
+
+/NAME=Riku,
+E-eh?
+
+/
+mmm
+
+/NAME=Riku,
+Aah! Mr. Inumaru!
+
+/NAME=Inumaru,
+I could make you feel good
+while you read
+
+/NAME=Riku,
+huh..?
+really?
+
+/BG=92,
+I unzipped him carefully
+
+/NAME=Inumaru,
+whoa!!!!
+
+/
+I suddenly said something loud
+　
+/
+This...This is the first time
+I saw something this big!
+
+/NAME=Inumaru,
+...Your dick is huge!
+
+/NAME=Riku,
+...really? I didn't know it was
+big at all!
+
+/
+(I can't even hold it around my hand...)
+
+/NAME=Inumaru,
+You're very hard...
+I think you need some relief...
+
+/NAME=Inumaru,
+y-yes...B-But...
+it's embarassing
+
+/NAME=Inumaru,
+I'm sorry but no buts!
+
+/BG=96,NAME=Inumaru,
+Does it feel good?
+Let me help you
+
+/
+*Throb* *Throb*
+
+/NAME=Riku,
+M-Mr. Inumaru..
+oh! that feels...
+
+/NAME=Riku,
+oh... squeeze it harder
+please rub my dick!
+
+/NAME=Inumaru,
+let me rub your head a bit
+
+/NAME=Riku,
+Ohhh Ohhhh! Mr. Inumaru...
+my dick feels soooo good
+
+/
+He's really in the mood...
+I should be patient...
+
+
+/NAME=Riku,
+~Oh oh oh
+A-ahh ah
+Aaaah
+
+/NAME=Riku,
+N-nnnhgg
+it's  it's
+ohhhh ohhhhh
+
+/NAME=Riku,
+I'm gonn-
+oh ah aa
+
+/BG=97,
+Uwaaah! Ugnnhh
+OOhhh!!
+
+/NAME=Inumaru,
+Oh!
+
+/BG=98,
+It hit my face...
+...he came a lot!
+
+/NAME=Inumaru,
+That was amazing!
+
+/NAME=Riku,
+I made a mess...
+it's embarassing
+
+/NAME=Inumaru,
+I don't mind...
+Uhmm...Let me see your dick a bit more
+
+/
+so cute even though it's huge
+
+/NAME=Riku,
+Oh!!
+Did it hit you?
+I'm sorry...
+
+/NAME=Inumaru,
+It's okay!
+Did that make you feel good
+
+/NAME=Riku,
+yeah...
+
+/NAME=Riku,
+My dick felt really good...
+
+
+/CUTIN=1,BG=2,R=50,L=62,l=9,r=12,
+Ohh man... this is dangerous!
+Illegal! Immoral!
+
+
+/R=52,r=16,NAME=Riku,
+Mr. Inumaru...?
+
+/l=5,NAME=Inumaru,
+...yes?
+
+/r=12,NAME=Riku,
+Can I see yourS?
+
+/l=6,NAME=Inumaru,
+uhh.. sure!
+
+/r=14,NAME=Riku,
+Oh oh! that's not what I meant
+
+/r=11,NAME=Riku,
+I only asked for the porn magazine...
+but...
+
+/l=15,NAME=Inumaru,
+Oh no no! It's no problem
+I'll show you mine
+
+/r=12,NAME=Riku,
+Well if you're willing then I'm 
+willing too!
+
+/l=13,NAME=Inumaru,
+…！
+
+/
+I clearly understood what Riku
+actually meant when he said that...
+
+/L=1,R=1,
+Riku...Riku...
+I have been thinking if I should
+follow what you say
+
+/
+Aaanyway... Riku and I are already
+went through this far...right?
+
+/END=R07.html,
+
+/LABEL=16,
+(Random student in the infirmary)
+Hello? Is the doctor here?
+
+/NAME=Inumaru,BG=2,L=62,R=2,r=14,l=13,
+!! This is dangerous!
+If we get caught then...!
+
+/NAME=Student,R=1,l=9,
+oh!
+
+/NAME=Student,
+What are you two doing?
+That's prohibited!
+
+/NAME=Inumaru,l=14,
+Wait! No! This is nothing...
+So... what's wrong? Are you sick?
+Injured?
+
+/NAME=Student,
+Oh... I fell and got wounded
+
+/
+That was too close for comfort...
+
+/ANTEN,
+
+/NAME=Inumaru,l=10,
+Riku! I'm sorry
+I have to keep this magazine now
+
+/R=2,r=10,NAME=Riku,
+...okay...
+
+/END=B08.html,
+
+/
+□Bad ending (horny doctor caught!)
+Rumors began that the doctor brought an erotic magazine.
+Even though there was no proof、 the doctor left after awhile
+
+ラフ（前後４枚ずつ）

@@ -1,0 +1,647 @@
+﻿&memo=
+/R=1,L=1,BG=1,
+Why am I always thinking about Riku?
+
+/
+I wonder what he's hiding...
+
+/
+If he really has a health problem..
+then we should meet again today
+
+/
+I called him to my office awhile ago...
+I hope I didn't scare him off yesterday
+
+/
+He seemed like he was hiding
+something though... what could it be?
+
+/
+Surely he could tell me
+as the school doctor...
+
+/
+I'll have to build his trust!
+That's what's important!!
+
+/
+I won't force him though
+Hmm... what can I do?
+
+/ANTEN,
+
+/BG=2,NAME=Riku,R=2,r=10,
+Good morning...
+
+/NAME=Inumaru,L=62,l=1,
+(It's past 10am! He's late for class 
+again)
+
+/NAME=Riku,r=18,
+Sorry I had to run off
+to class yesterday...
+
+/NAME=Inumaru,l=3,
+It's okay! Uhh...
+Good morning Riku!
+
+/NAME=Inumaru,l=2,
+Oh!
+I'll need you to meet with me
+for the next three weeks
+
+/NAME=Riku,r=2,
+Oh...
+
+/NAME=Riku,r=6,
+Three weeks?
+
+/NAME=Inumaru,l=6,
+(He seems a little happy)
+
+/NAME=Inumaru,l=17,L=67,
+How are you today?
+Does your stomach still hurt?
+
+/NAME=Riku,r=5,
+A little bit...
+
+/NAME=Inumaru,l=1,
+Do you want to try
+some medicine?
+
+/NAME=Riku,r=10,
+No, I don't need it.
+It doesn't hurt much...
+
+/NAME=Riku,r=9,
+I think I'll lie down
+again. That helped last time.
+
+/NAME=Inumaru,l=10,R=1,
+Well if you still don't need
+medicine that is a good sign.
+
+/NAME=Riku,L=1,
+...
+
+/NAME=Riku,
+Uhmm... could you come here?
+
+/NAME=Inumaru,L=62,
+Yes? What is it?
+
+/NAME=Riku,L=1,BG=22,
+You know...
+
+/NAME=Riku,
+I... I come in here
+and sleep and you don't
+say anything...
+
+/NAME=Inumaru,
+What would I say?
+
+/NAME=Riku,BG=24,
+Don't you suspect me
+of just trying to
+get out of class?
+
+/NAME=Riku,
+Maybe you're secretly reporting
+me to my teacher...
+
+/NAME=Inumaru,
+I just take care 
+of the sick kids in here...
+That is my top priority!
+
+/NAME=Riku,BG=25,
+Eh?!
+
+/NAME=Inumaru,
+I mean... What if you're really sick
+and you suddenly need to go to
+the hospital? 
+
+/NAME=Inumaru,BG=23,
+Of course even the slightest of
+phyisical pain can lead to serious
+sickness! 
+
+/NAME=Inumaru,
+On that basis...
+I cannot just assume that
+you're lying.
+/NAME=Inumaru,
+That is why it is important
+for me to give you a check-up
+and see for myself first.
+
+/NAME=Inumaru,
+Also..
+I don't think it's only 
+your tummy that is bothering you...
+
+/NAME=Riku,
+...
+
+/NAME=Inumaru,
+Somehow... something keeps on
+telling me that there's something
+more about you...
+
+/NAME=Inumaru,
+I know that the infirmary
+is a good place to feel
+safe
+
+/NAME=Inumaru,
+And... A doctor is someone 
+who will listen to anything you say. A
+doctor is someone that can be trusted.
+
+/NAME=Inumaru,
+So... Feel free to come to the infirmary
+whenever you feel something that is
+bothering you..
+
+/NAME=Inumaru,
+...Even if you dont trust my words...
+My promise to be trustworthy
+will still stand.
+
+/NAME=Inumaru,
+Why? Because I felt the same way when
+I was still a kid and I think 
+you're in the same situation.
+/NAME=Riku,BG=34,
+oh!
+I think you're right...
+
+/NAME=Inumaru,
+~~Riku...
+It happens to everybody
+No need to worry...
+
+/NAME=Inumaru,
+I'm always here...
+
+/NAME=Inumaru,
+You dont need to limit yourself to
+those 3 weeks、 okay? Oh and If 
+ever you want to ask me anyth...
+
+/NAME=Riku,BG=32,
+Doc... uhh..sir... uhh
+Mr. Inumaru... ughhh...
+
+/NAME=Riku,BG=31,
+(sigh)
+
+/NAME=Inumaru,
+(I wonder what he wants to say...)
+
+/NAME=Inumaru,
+Hmm? Yes?
+/NAME=Riku,BG=28,
+uhh...
+...No、 its nothing...
+
+/NAME=Inumaru,BG=28,L=1,R=1,
+(This looks like my chance
+to ask him what is bothering him)
+
+/QUESTION,J1=10,J2=11,J3=12,JF=13,A1=Are you being bullied?,A2=You are just lazy?,A3=Any embarrassing problems?,TIME=300,
+
+/LABEL=10,NAME=Inumaru,
+Riku... is there a reason
+why you dont want to go to class?
+
+/NAME=Riku,BG=25,
+Like...?
+
+/NAME=Inumaru,
+Like... bullies?
+
+/NAME=Riku,BG=26,
+!!!
+Uhmm... 
+N-no! its nothing like that..
+
+/NAME=Inumaru,
+Hmm... I think it's okay
+to tell me if that is the reason...
+
+/NAME=Inumaru,
+Because... I was
+bullied too when I was a Kid...
+
+/NAME=Riku,BG=25,
+!!!
+...How..?
+
+/NAME=Riku,BG=24,
+Mr. Inumaru...
+Something happened before?
+
+/NAME=Inumaru,
+...
+Yeah...
+
+/NAME=Riku,
+...
+
+/NAME=Inumaru,
+...Riku? Are you getting bullied?
+
+/NAME=Riku,BG=31,
+Yes...
+
+/NAME=Inumaru,
+...
+
+/NAME=Inumaru,BG=28,
+Riku.. It's going to be
+all right.. 
+
+
+/NAME=Inumaru,
+You're not alone now..
+I'm not alone now too..
+We'll both have each other..
+
+/NAME=Riku,BG=27,
+*Sniff*
+I...
+I think I dont want to go to class...
+
+/NAME=Riku,
+Those bullies would... they would...
+/NAME=Inumaru,
+It's okay...
+/NAME=Inumaru,
+You can stay as long as you like...
+it's okay with me...
+
+/NAME=Riku,
+...Mr. Inumaru...
+
+/
+...He had nobody to protect him
+before! Nobody stood up for him...
+
+
+/
+Through his tears...
+I can immediately tell how 
+hurt this child is...
+
+/
+I will be here for Riku...
+I wonder what I can do for him?
+
+/
+school may only be just for 
+a short while... But it is an 
+important stage in growing up!
+
+/
+...Loneliness is really a battle
+especially for a child. It would
+have been easier if he had someone...
+
+/
+When I was bullied in my
+school... It actually inspired me
+to be a health teacher...
+
+/
+I thought that no child should
+ever feel bad from getting bullied...
+That is my duty!
+
+/
+... It is decided!
+
+/
+I will be the first one
+to help Riku feel better..
+
+/
+With my help、 everything should
+change for the better for Riku...
+
+/JUMP=14,
+
+/LABEL=11,NAME=Inumaru,ACTION_STOP,
+So... you were playing hooky 
+all along!
+
+/NAME=Riku,BG=29,
+...huh?!
+
+/NAME=Inumaru,
+(He goes in the infirmary to cut
+his classes without any reason!
+I wonder what I should do?)
+
+/NAME=Inumaru,
+(Well.. I AM responsible for him..)
+
+/NAME=Riku,BG=24,
+..huh?!
+
+/NAME=Riku,BG=30,
+Oh shoot! you found out about
+me... I should not come here anymore!
+
+/NAME=Inumaru,
+I'm not saying you shouldn't go here
+anymore... What if you get sick or hurt?
+But anyway... You should go to class!!
+
+/NAME=Riku,BG=30,
+...Errr!!
+
+/BG=2,L=62,l=10,
+The boy stood up and
+left the infirmary
+
+/l=5;
+　It's good that he's going to class now..
+/
+　I don't know what could've happened...
+
+/END=B03.html,
+
+/LABEL=12,
+Are you embarassed about something?
+
+/NAME=Riku,BG=25,
+Yes... I'm...
+
+/NAME=Inumaru,
+Something private?
+
+/
+He frowns at me
+
+/NAME=Riku,
+Private?
+
+/NAME=Inumaru,
+We are both guys
+you don't have to be ashamed
+
+/NAME=Inumaru,
+I'm still a student too
+you can tell me
+
+/NAME=Riku,BG=24,
+...
+
+/NAME=Inumaru,
+I want to help you!
+Something seems to bother you a lot...
+
+/NAME=Inumaru,
+Can your foreskin roll back?
+You can't ejaculate yet?
+Not growing hair?
+
+/NAME=Riku,BG=26,
+M-Mr.?!
+
+/NAME=Inumaru,
+Are you having wet dreams?
+
+/NAME=Inumaru,
+Do you wake up with sticky pants?
+Don't worry! You're not sick!
+
+/NAME=Riku,BG=33,
+Mr. Inumaru!
+I don't have a problem like that!
+
+/NAME=Riku,
+It rolls back fine!
+I can make semen and I have hair...
+I don't have wet dreams as I take care of it...
+
+/NAME=Riku,BG=25,
+I... ah...
+
+/BG=33,
+His face turns red after saying that
+
+/NAME=Riku,
+Anyway、 I heard you wrong.
+
+/NAME=Riku,BG=31,
+Bullying.
+That's my problem...
+
+/NAME=Inumaru,
+Someone's bullying you?
+
+/NAME=Inumaru,
+(Or teasing...)
+
+/
+I had been bullied myself!
+He sort of reminds me of myself... 
+/
+While I was a child
+I was not understood by people
+I had no one to help me...
+
+/NAME=Inumaru,
+(In his age...
+Why is he always alone?…
+I wonder if that's normal)
+
+/NAME=Inumaru,
+(I would not be like how I am today
+if I was not bullied before..)
+
+/NAME=Inumaru,
+(It got me interested in things
+when I started entering a boys' school..)
+
+/NAME=Inumaru,
+(arghh! I should not think this way..
+I have to cheer Riku somehow...)
+
+/NAME=Inumaru,
+(Although he might be lonely now...
+I'm sure he will become a stronger person
+in the future!)
+
+/JUMP=14,
+
+/LABEL=13,BG=27,ACTION_STOP,
+Riku...
+I failed in cheering you up..
+
+/END=B02.html,
+
+/LABEL=14,BG=27,=R=1,L=1,
+I should cheer him up somehow...
+
+/QUESTION,J1=15,J2=16,JF=17,A1=Talk about tomorrow...,A2=Show him something...,TIME=200,
+
+/LABEL=15,NAME=Inumaru,
+How about tomorrow?
+
+/NAME=Riku,BG=25,
+Eh?
+
+/NAME=Inumaru,
+Will you come in tomorrow?
+I enjoy meeting with you.
+
+/NAME=Riku,BG=24,
+Really? You enjoy my company?
+
+/NAME=Inumaru,
+Yeah I do
+I'll be waiting for you! Okay?
+
+/BG=34,
+His face seems to brighten up
+to the thought of seeing me again.
+
+/NAME=Riku,
+Okay! I'll come tomorrow
+
+
+/NAME=Inumaru,
+OK! See you!!
+
+/
+There's something about this boy..
+Am I doing this for his sake?
+...Yeah I think so..
+/NAME=Riku,BG=2,R=2,L=62,r=6,
+I'll head back to class now...
+
+/NAME=Inumaru,l=2,
+Okay! I'll be here.
+
+/NAME=Riku,r=2,
+Bye!
+
+/
+He left with a smile
+
+/END=R02.html,
+
+/LABEL=16,
+It was something confiscated.
+
+/NAME=Inumaru,
+Are you going to come again tomorrow?
+
+/NAME=Riku,BG=25,
+I don't know yet...
+
+/
+I wonder if Riku gets 
+what I'm saying...?
+
+/NAME=Inumaru,
+If you come tomorrow
+I'll show you something good!
+
+/NAME=Riku,
+Something good..?
+Like...?
+
+/NAME=Inumaru,
+Oh!
+You know something a boy
+your age would enjoy.
+
+/NAME=Inumaru,
+A lot of boys
+would love to get
+their hands on it
+
+/NAME=Riku,BG=32,
+S-something to do with sex?
+
+/NAME=Riku,BG=33,
+Well
+I am not interested in sex!
+
+/NAME=Inumaru,
+I see...
+Okay then! I won't bring the 
+magazine anymore
+
+/NAME=Riku,BG=25,
+Eh?!
+
+/
+His cheeks turned red.
+
+/NAME=Riku,BG=32,
+Ma-magazine?
+
+/NAME=Inumaru,
+With some... pictures!
+
+/NAME=Inumaru,
+So you aren't interested?
+
+/NAME=Riku,BG=33,
+Well maybe I could...
+
+/NAME=Inumaru,
+(Heh still a prepubescent boy)
+
+/NAME=Inumaru,
+Thats good!
+I'm looking forward to tomorrow.
+
+/NAME=Inumaru,
+But don't come if you're not interested.
+ok?
+/NAME=Riku,BG=32,
+...Mr.!
+
+/BG=2,
+He gets out of the bed.
+
+/NAME=Riku,R=2,L=62,r=16,
+I'll go now.
+
+/NAME=Inumaru,l=2,
+Okay...
+Good luck in class!
+
+/NAME=Riku,r=9,
+...Okay...
+
+/
+Riku leaves.
+
+/
+(...Showing an erotic magazine..
+I wonder if this was the only way...?)
+
+/
+(Still... this may help Riku
+feel better..
+Isn't that good...?)
+
+/END=R03.html,
+
+/LABEL=17,BG=27,
+I was too late!
+I wasn't able to think of an idea
+to cheer him up...
+
+/END=B04.html,

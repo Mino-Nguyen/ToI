@@ -1,0 +1,1390 @@
+﻿&memo=
+/BG=2,R=13,r=23,NAME=Riku,
+Good morning!
+*huff puff*
+
+/L=62,l=2,NAME=Inumaru,r=23
+Ah Good morning!
+
+/
+It's still before 9am...
+
+/,l=2,NAME=Inumaru,
+Looks like you're
+early today!
+
+/l=3,NAME=Inumaru,
+That's good!
+
+/r=11,NAME=Riku,
+*huff* I woke up early...
+
+/R=2,r=4,NAME=Riku,
+So I came to school
+before class started...
+
+/l=7,NAME=Inumaru,
+Sounds like a big step
+towards not skipping classes!
+
+/l=16,L=67,NAME=Inumaru,
+But what happened to make you
+out of breath like that?
+
+/r=12,NAME=Riku,
+Because... I was
+*pant* running...
+
+/l=1,
+But he had plenty of time
+to get to class. I wonder why
+he was in a hurry?
+
+/l=2,NAME=Inumaru,
+Jogging in the morning is good.
+But in moderation okay?
+
+/l=5,NAME=Inumaru,
+If you can get here on time
+everyday then you won't have
+a problem about skipping class!
+
+/l=3,NAME=Inumaru,
+Think you can get up 
+the same time tomrrow?
+
+/r=8,NAME=Riku,
+*huff* Well what if... *puff*
+
+/R=4,r=7,l=1,NAME=Riku,
+What if you gave me a
+wake up call? That would
+help me wake up on time.
+
+/l=3,NAME=Inumaru,
+You want me to call you
+every morning?
+
+/R=3,r=14,NAME=Riku,
+Yeah?!
+
+/NAME=Inumaru,l=19,
+Huh?!
+
+/R=5,r=16,NAME=Riku,
+I-if it isn't too
+much trouble!
+
+/NAME=Riku,
+Kidding! I can't ask that
+from you...
+
+/L=67,l=17,R=4,r=12,NAME=Inumaru,
+I'd be up till midnight worrying
+about forgetting to call you...
+
+/l=1,NAME=Inumaru,
+The best way to get up early
+is to go to bed early
+
+/R=2,r=2,NAME=Riku,
+Yeah.
+
+/r=7,NAME=Riku,
+As long as you're here
+I'm going to get up early.
+
+/l=18,NAME=Inumaru,
+Eh?
+
+/r=2,NAME=Riku,
+Don't worry、I'll get up!
+So、what are you up to?
+
+/r=1,NAME=Riku,
+I'm so bored today...
+
+/l=2,NAME=Inumaru,
+Well nothing too interesting
+
+/l=16,NAME=Inumaru,
+Mainly just looking at
+kids hurt because of gym class.
+
+/l=6,NAME=Inumaru,
+Or sending sick kids home.
+It's mostly paper work...
+
+/NAME=Riku,
+I see...
+
+/l=2,NAME=Inumaru,
+Hey、uhh、Riku!
+Don't get me wrong、okay?
+But don't you have other friends to see?
+
+
+/r=8,NAME=Riku,
+Is it bad for me to
+hang around here?
+
+/r=9,NAME=Inumaru,
+No no! It's just that I
+said I would meet a teacher
+later...
+
+/NAME=Inumaru,
+(Hope he didn't take offense)
+
+/NAME=Inumaru,l=5,
+I didn't mean I don't
+want you here! Come as
+often as you like!
+
+/l=3,NAME=Inumaru,
+You can come and talk 
+with me anytime!
+
+/R=8,r=11,NAME=Riku,
+...Fat.
+
+/R=2,r=12,NAME=Riku,
+Nobody wants to be friends
+with me... 
+
+/NAME=Riku,
+Because I'm fat...
+
+
+/l=2,NAME=Inumaru,
+Oh I didn't mean to...
+
+/R=2,L=62,l=1,r=8,NAME=Inumaru,CUTIN=1,
+Here let me get you a drink! You
+must be thristy after running around
+
+
+/QUESTION,J1=1,J2=2,J3=3,JF=4,A1=Green Drink,A2=Yellow Drink,A3=White Drink,TIME=400,
+
+
+/LABEL=1,NAME=Inumaru,l=2,
+Here!
+
+
+/r=2,NAME=Riku,
+Thank you!
+
+/NAME=Riku,R=1,L=1,CUTIN=45,
+*glug glug*
+
+/r=7,l=6,NAME=Riku,
+Oh!
+Green Tea?
+
+/l=1,NAME=Inumaru,
+Yes!
+I have a tea garden at my house.
+
+
+/NAME=Inumaru,CUTIN=1,L=62,R=2,l=2,
+I had to take care of it
+as a kid. I still make
+my own tea with it.
+
+/l=3,NAME=Inumaru,
+Isn't it delicious?
+
+/r=4,NAME=Riku,
+Honestly...
+I don't really like tea.
+
+/r=7,NAME=Riku,
+Did you really make
+this yourself?
+
+/l=6,NAME=Inumaru,
+Yes I did.
+
+/l=2,NAME=Inumaru,
+Is it not good?
+
+/NAME=Riku,
+It isn't my taste
+Do you want it?
+
+/NAME=Inumaru,
+Oh sure
+my throat is dry
+
+/NAME=Inumaru,
+Perhaps it would have been
+better as a cold drink...
+
+/r=2,NAME=Riku,
+Heh yeah...
+
+/r=7,NAME=Riku,
+So do you have any scones
+to go with the tea?
+
+/l=12,NAME=Inumaru,
+Hey don't get carried away now.
+
+/r=9,NAME=Riku,
+OUCH
+
+/l=2,NAME=Inumaru,
+What is wrong?
+
+/r=15,NAME=Riku,
+Uhgg...
+
+/r=5,NAME=Riku,
+My stomach is starting to hurt...
+
+/l=10,NAME=Inumaru,
+Damn...
+I wonder if was from the
+stress of running.
+
+/r=4,NAME=Riku,
+Sorry...
+
+/L=67l=18,NAME=Inumaru,
+What?
+
+/r=15,NAME=Riku,
+Sorry I need to
+go lay down
+
+/l=2,NAME=Inumaru,
+Okay.
+I have a bed set up
+
+/l=6,NAME=Inumaru,
+I just washed the sheets too.
+It should make you feel better...
+
+/r=10,NAME=Riku,
+Th-thanks...
+
+/JUMP=5,
+
+/LABEL=2,l=2,NAME=Inumaru,
+Here!
+
+/r=2,NAME=Riku,L=1,R=1,CUTIN=46,
+Thank you
+*sniff sniff*
+
+/r=10,NAME=Riku,
+What is this...?
+
+/l=11,NAME=Inumaru,
+You might know if you
+take a sip
+
+/r=9,NAME=Riku,
+*sniff*
+It smells strange...
+
+/r=10,NAME=Riku,
+*glug glug*
+The taste is weird too...
+
+/L=64,l=3,NAME=Inumaru,CUTIN=1,R=2,r=10,
+The best against dehydration!
+Fresh urine!
+
+/R=3,r=14,NAME=Riku,
+WHAT!
+PEE?!
+
+/R=5,r=16,NAME=Riku,
+Is this your pee?!
+
+/l=6,NAME=Inumaru,
+Made fresh this morning!
+
+/r=12,NAME=Riku,
+You made me drink your pee!?
+
+/R=10,r=20,NAME=Riku,
+YOU CREEP!!!
+
+/l=5,L=63,NAME=Inumaru,
+You're far too gullible...
+
+/l=3,NAME=Inumaru,
+I'm just kidding!
+It's Rooibos tea.
+
+
+/R=8,r=18,NAME=Riku,
+Roo... bow?
+So it's not your pee?
+
+/l=7,NAME=Inumaru,
+Yes.
+It's a tea made from an
+aboriginal African root
+
+/l=5,NAME=Inumaru,
+I don't think that
+pee tastes this good.
+
+/R=4,r=11,NAME=Riku,
+Well it does taste good...
+I was surprised pee tasted good...
+
+/l=2,NAME=Inumaru,
+It's very good for the body.
+It has a distinctive aroma and
+is becoming a habit of mine.
+
+/r=7,NAME=Riku,
+Will this help with my stomach?
+I'll drink a lot more!
+
+/l=6,NAME=Inumaru,
+I'll have a glass too、my throat is dry.
+Drink as much as you want! There's still 
+a lot!
+
+/r=2,NAME=Riku,
+*gulp*
+It does have a nice taste!
+
+/l=3,NAME=Inumaru,
+Right?
+
+/l=1,NAME=Inumaru,
+So how do you feel today?
+
+/r=4,NAME=Riku,
+Hm? Come to think of it
+my stomach still hurts a bit.
+
+/l=5,NAME=Inumaru,
+Could it be from drinking too much?
+
+/r=4,NAME=Riku,
+...ugg. I'm sorry.
+
+/L=67,l=18,NAME=Inumaru,
+Eh?
+
+/r=15,NAME=Riku,
+I need to go
+lay down for a bit.
+
+/l=2,NAME=Inumaru,
+Please do!
+I just made up a fresh bed.
+
+/l=6,NAME=Inumaru,
+I just washed the sheets today.
+It'll make you feel better.
+
+/r=10,NAME=Riku,
+Oh thanks...
+
+/JUMP=5,
+
+
+/LABEL=3,l=2,NAME=Inumaru,
+Here!
+
+/r=10,NAME=Riku,L=1,R=1,CUTIN=44,
+This is white and mushy
+what is it?
+
+/l=6,NAME=Inumaru,
+You'll know when you try it
+
+/r=11,NAME=Riku,
+This is strange... I'm not sure
+I want to drink it...
+
+
+/NAME=Inumaru,
+Are you sure?
+I made it myself.
+
+/CUTIN=1,R=2,L=62,l=2,r=12,NAME=Riku,
+You made it...
+
+/l=11,NAME=Inumaru,
+It took awhile to make that much.
+
+/r=20,NAME=Riku,
+W-wow... all this
+is from you...
+
+/r=11,NAME=Riku,
+I've never tasted
+mine before...
+
+/l=5,NAME=Inumaru,
+??
+
+/r=20,NAME=Riku,R=1,L=1,CUTIN=44,
+I... I want to
+try yours...
+
+/l=11,NAME=Inumaru,
+Try not to spill any.
+
+/
+*gulp*
+
+/R=2,r=18,L=62,l=5,CUTIN=1,NAME=Riku,
+Hey...! what!!
+This is a yoghurt drink!
+
+/l=2,NAME=Inumaru,
+I make some every morning!
+It's quite healthy if not
+time consuming!
+
+
+/l=5,NAME=Inumaru,
+What were you expecting?
+
+/r=16,NAME=Riku,
+Eh??
+
+/r=12,NAME=Riku,
+Uhh well
+I was expecting something else...
+
+/R=5,r=16,NAME=Riku,
+Milk!
+I thought it would be milk!
+
+/L=66,l=4,NAME=Inumaru,
+Heh milk...
+Well drink more
+There's plenty left
+
+/R=2,r=2,NAME=Riku,
+Thanks! It's great!
+
+/l=7,NAME=Inumaru,
+By the way、how's
+your stomach feeling
+today? Any pains?
+
+/r=5,NAME=Riku,
+Huh? Well it does
+hurt a bit.
+
+/l=10,NAME=Inumaru,
+Are you lactose intolerant?
+That shouldn't have any in it.
+
+/r=4,NAME=Riku,
+No I'm not.
+
+/r=4,NAME=Riku,
+...sorry.
+
+/L=67,l=18,NAME=Inumaru,
+What?
+
+/r=15,NAME=Riku,
+I need to go lay
+down for a while.
+
+/l=2,NAME=Inumaru,
+Yes please do
+I have a bed ready here
+
+/l=6,NAME=Inumaru,
+I just changed the sheets.
+it should help you feel better.
+
+/r=10,NAME=Riku,
+Oh thanks...
+
+/JUMP=5,
+
+/LABEL=4,r=17,NAME=Riku,
+Can I have water or something?
+
+/l=4,
+Does he not want tea
+or something?
+
+/r=10,R_FLIP,NAME=Riku,
+I'm fine with tap water.
+
+/R=1,l=10,
+He begins to lap up water from the tap.
+
+/R_FLIP,R=2,r=10,NAME=Riku,
+I think I need to
+lay down now...
+
+/l=5,
+He goes over and lays in the bed
+
+
+/LABEL=5,L=1,R=1,
+I'll leave him alone to rest
+
+/L=62,
+The infirmary at this school
+is usually boring and never busy
+
+/
+But with him here
+it is quite enjoyable!
+
+/
+In fact... With him coming here for
+the next three weeks... I might have
+to postpone my return to college
+
+/
+I don't think I'd
+do that for anyone else
+
+
+/
+What is it about this kid?
+
+/
+Oh... That drink...
+I have to pee now.
+
+/BG=2,L=62,l=5,R=1,CUTIN=1,
+Should I leave him here alone
+or maybe take him with me?
+
+
+/QUESTION,J1=6,J2=7,JF=8,A1=I'll be right back,A2=Need to use the bathroom?,TIME=350,
+
+/LABEL=6,NAME=Inumaru,
+I need to use the restroom
+Will you be OK here alone 
+for a minute?
+
+/R=2,r=1,NAME=Riku,
+Oh sure but...
+
+/L=67,l=17,NAME=Inumaru,
+But?
+
+/R=4,r=12,NAME=Riku,
+I need to go too、actually
+
+/l=2,NAME=Inumaru,
+Oh! You better go with me then.
+I don't want any bedwetting
+
+/R=2,r=16,NAME=Riku,
+I'm not a little kid!
+I won't wet the bed!
+
+/l=5,NAME=Inumaru,
+Just kidding! Hehe.
+Want to go to the bathroom together?
+
+
+/r=7,NAME=Riku,
+...yeah!
+
+/ANTEN,
+
+/JUMP=9,
+
+/LABEL=7,NAME=Inumaru,
+I need to use the bathroom
+Do you want to go too?
+
+/R=4,r=12,NAME=Riku,
+Do you normally invite students
+to go with you?
+
+/L=66,l=5,NAME=Inumaru,
+Uhh no... Sorry that was strange...
+
+/r=11,NAME=Riku,
+Isn't there a different bathroom
+for teachers?
+
+/L=66,l=16,NAME=Inumaru,
+Oh I dunno. I've never
+used any but the school one.
+
+/l=2,NAME=Inumaru,
+So you don't want to go with me?
+
+/r=4,NAME=Riku,
+No、I'll go with you.
+Let's go! I have to pee.
+
+/l=2,L_FLIP,NAME=Inumaru,
+Me too...
+
+/r=2,NAME=Riku,L_FLIP,
+*sigh*
+
+/ANTEN,
+
+/JUMP=9,
+
+/LABEL=8,NAME=Inumaru,L=62,l=7,ACTION_STOP,NAME=Inumaru,
+I'm back
+
+/l=2,
+I wonder how he's doing?
+
+/NAME=Inumaru,l=16,
+Hello? Where did you go?
+
+/
+He isn't here.
+
+/L_FLIP,
+I shouldn't have walked 
+off without telling him.
+
+/l=10,
+Where did he go I wonder...?
+
+/END=B05.html,
+
+/
+Ｄ（失敗）→ＢＡＤエンド（激昂エンド）
+　　　　　　ただいまと声をかけると、保健の先生が独りでいて、不審そうな目をむけてきた
+　　　　　　「出張が早めに終わったから戻ってみたら…
+　　　　　　　あの子のことかくまってたんじゃないでしょうね！
+　　　　　　　教師がいじめを認めたら学校はおしまいなの！気をつけなさい！
+　　　　　　怒りがこみ上げてきた僕は、つい近くにあった灰皿をつかむと、
+　　　　　　「あんたみたいな教師がいるからいじめはなくならないんだ
+　　　　　　「ちょっと…ッ誰か、誰かこの人をとめて！
+　　　　　　「うぉおおおお！
+　　　　　　気づくと目の前には赤い海が広がり、水面からはごろっとした肉塊が顔をのぞかせた
+　　　　　　「先生！？だれか、だれか～！！！
+　　　　　　「これは、、、違うんだ！！
+-----------------------------------------------------------------------------------------------------------------------
+
+/LABEL=9,BG=3,L=62,l=6,R=2,r=1,NAME=Inumaru,
+What game were you playing
+on your phone?
+
+/r=6,NAME=Riku,
+You like video games?
+
+/l=1,NAME=Inumaru,
+Of course!
+I am still a college student after all!
+
+/
+We chatted on the way to the bathroom
+
+/
+Wow this bathroom is small
+there isn't much space between
+the urinals huh...?
+
+
+/l=7,NAME=Inumaru,
+Oh...
+
+/l=5,NAME=Inumaru,
+If you don't get back to class
+soon I'm sure I'll get in trouble!
+
+/r=8,NAME=Riku,
+Will you?
+I didn't tell my teacher that
+I was coming here.
+
+/l=1,NAME=Inumaru,
+Oh.
+
+/
+We stand next to each other 
+at the urinals. The sound 
+of my pee tinkles in the air.
+
+/
+It feels good to finally pee.
+
+/l=6,
+Hmm... I wonder if it feels 
+good for him too...
+
+/l=9,
+Now I'm thinking weird thoughts.
+
+/l=1,
+Hmm but I don't hear him peeing...
+
+/R=4,r=10,NAME=Riku,
+Umm...
+
+/L=62,l=10,R=4,r=10,BG=3,CUTIN=1,
+He seems to be struggling...
+I wonder what is going on.
+
+/QUESTION,J1=10,J2=11,JF=12,A1=Peek over,A2=Help him,TIME=400,
+
+
+/LABEL=10,L=1,R=1,BG=35,NAME=Inumaru,
+...?
+
+/NAME=Riku,
+Hmm I-I can't...
+
+/
+Is he having trouble
+getting his pants open?
+
+/
+He is definitely struggling.
+
+/NAME=Riku,
+Uh uh uhh... it won't...
+
+/BG=36,
+OH he finally got it
+
+/NAME=Inumaru,
+Ah?!
+
+/
+I can see his penis
+
+/
+It's... it's huge!!
+Even compared to mine! 
+And I'm already an Adult...!
+
+/
+This kid...
+
+/NAME=Riku,
+Uh-
+
+/
+He has noticed me
+watching him as
+he pees
+
+/BG=37,NAME=Inumaru,
+Oh hey...
+
+/NAME=Inumaru,
+You're pretty big
+
+/NAME=Riku,
+Huh?
+
+/NAME=Inumaru,
+Y-your dick...
+
+/BG=38,NAME=Riku,
+!!
+
+/
+He starts to squirm around 
+embarassed unable to hide 
+because he's still peeing
+
+/BG=39,NAME=Riku,
+Don't look at my dick...
+It's... it's embarassing...
+
+/NAME=Inumaru,
+I couldn't help it.
+sorry!
+
+/NAME=Inumaru,
+It's just so big!
+
+/BG=40,NAME=Riku,
+Really?
+Compared to what...?
+
+/NAME=Inumaru,
+Compared to anyone!
+
+/
+This kid...
+　　　
+/
+Does he not know that
+his penis is gigantic?
+
+/
+Perhaps he hasn't 
+seen anyone else's?
+　　　
+
+/NAME=Riku,
+Don't say that!
+It's embarassing
+
+/BG=41,NAME=Riku,
+Don't look at it too...
+It's kinda weird...
+
+/NAME=Inumaru,
+We're both guys...
+is it really that 
+embarrassing?
+
+/NAME=Riku,
+If we're both guys
+then me seeing yours
+wouldn't be a problem...
+
+
+/NAME=Inumaru,
+Huh?
+
+/JUMP=13,
+
+/
+
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+
+/LABEL=11,L=1,R=1,BG=35,NAME=Riku,
+I c-can't seem to get my zipper down...
+
+/NAME=Inumaru,
+Do you need help?
+
+/NAME=Riku,
+My pants are stuck
+Oh no... I'm gonna pee 
+in my pants!
+
+/NAME=Inumaru,
+Stuck?
+I have an idea
+Alright?
+
+/NAME=Riku,
+Huh huh huh
+I- I can feel it
+It's gonna come out
+
+/NAME=Inumaru,
+Well
+We'll just have to pull them down!
+
+/BG=42,
+I grab his belt and pull
+them down
+
+/NAME=Inumaru,
+Ah ?!
+
+/
+　His penis...
+ It's huge!!
+
+/BG=55,
+It's longer and thicker 
+than any adult I've ever seen!
+
+/NAME=Riku,
+Oh I can no... oh oh. huhhh
+
+/BG=54,NAME=Riku,
+Oh thank you Mr. Inumaru!
+
+/NAME=Inumaru,
+Phew I made it
+
+/NAME=Riku,
+This is embarassing
+you can see my dick
+
+/NAME=Inumaru,
+We are both guys、don't worry
+
+/NAME=Riku,
+It's still embarassing...
+
+/
+He showed his embarrassement by 
+shrinking down a little in 
+size as well
+
+/JUMP=13,
+
+/
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+
+
+/LABEL=12,ACTION_STOP,
+
+/NAME=Riku,
+And oh.. I... uh-oh
+
+/NAME=Inumaru,
+What's wrong?
+
+/BG=53,NAME=Riku,L=1,R=1,
+Oh oh ohhhhhhhhhh
+
+/
+　*psssss*
+　
+/NAME=Inumaru,
+Oh! oh no!
+
+/NAME=Riku,
+Y-you
+You didn't help me...
+
+/NAME=Riku,
+*waaa*
+
+/NAME=Bully,BG=3,L=92,l=1,R=2,r=5,
+What is going on in here?
+
+/NAME=Riku,
+Hiro...!
+
+/NAME=Bully,l=3,
+Looks like baby wet his pants!
+
+/NAME=Inumaru,R=62,r=10,
+Hey now Hiro...
+
+/NAME=Bully,l=5,
+Ahahaha
+
+/NAME=Riku,R=9,r=19,
+Waahaaaaaa!!
+
+/L=1,R=1,
+The rest of the day he
+wouldn't speak to me again
+/
+and he didn't come to school
+the next day.
+
+/END=B06.html,
+
+/
+
+Ｃ．（失敗）□ＢＡＤエンド（努力はしたエンド）
+　　　　　　それから毎日この子の相手をしていたが、
+　　　　　　教育自習期間が終わったことで自然と関係が切れてしまった
+　　　　　　大学に戻って日々忙しくしているInumaru、ニュースで懐かしいあの学校の名を耳にした
+　　　　　　そのニュースは、Rikuが…
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+○会話４（先生のはどんななの）
+●質問４（見せる？）
+
+//会話モードに戻す
+
+/LABEL=13,BG=3,R=50,L=62,r=4,l=7NAME=Riku,
+You saw my dick
+It's unfair...
+
+/r=8,NAME=Riku,
+Show me yours too!
+
+/l=5,NAME=Inumaru,
+Uhh...
+
+/r=12,NAME=Riku,
+It's embarrassing
+yours is probably
+a lot bigger isn't it?
+
+/BG=3,R=50,L=62,r=12,l=10,
+What should I do?
+I know this is a losing battle...!
+
+/QUESTION,J1=14,J2=15,JF=16,A1=Quickly show him,A2=Desperate measures,TIME=300,
+
+/LABEL=16,ACTION_STOP,BG=3,R=11,r=21,L=62,l=7,NAME=Riku,
+Are you not going to let me see?
+
+/l=10,NAME=Inumaru,
+No, I'm not.
+It's not proper...
+
+/R=9,r=19,R_FLIP,NAME=Riku,
+Despite the fact that you saw mine.
+You still... Grr...
+I hate adults...
+
+/l=12,NAME=Inumaru, 
+Wait!
+
+/END=B07.html,
+
+/
+　　　　　自分の恥ずかしいところを見られたのに、先生に無視され、裏切られたという想いから
+　　　　　不登校になってしまう
+　　　　　
+　　　　　
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+
+
+/LABEL=14,NAME=Inumaru,CUTIN=43,L=1,R=1,
+Here it is.
+Take a look.
+
+/
+　He stares at mine.
+
+/NAME=Riku,
+Why is yours so small?
+
+/L=86,l=9,R=53,NAME=Inumaru,CUTIN=1,
+Hey it's big enough!
+
+/r=17,
+I can't belive I have to take
+that from a school kid...
+　　　
+/l=14,NAME=Inumaru,
+I've seen a lot of others
+
+/l=10,NAME=Inumaru,
+and mine is roughly average sized.
+　
+/l=14,NAME=Inumaru,
+Yours is the odd one!
+It's the biggest I've ever seen!
+　　　　
+/r=14,NAME=Riku,
+Oh is that right...
+
+/r=11,NAME=Riku,
+I thought an adults would be
+twice as big as my dick.
+
+/l=4,NAME=Inumaru,
+I think people are normally
+about half your size...
+　　
+/L=91,l=17,NAME=Inumaru,
+Haven't you compared with other boys
+like when you go on school trips?
+
+/r=4,NAME=Riku,
+I'm always alone in the bathroom...
+
+/=10,NAME=Inumaru,
+Even when you change for the pool?
+
+/R=60,r=11,NAME=Riku,
+I don't go to the pool...
+So mine is bigger than everyone's?
+
+/l=7,NAME=Inumaru,
+For sure! I think everyone would 
+be surprised if they ever saw it.
+
+/r=18,NAME=Riku,
+Oh...
+
+/l=5,NAME=Inumaru,
+I don't mean they would see you as
+odd or anything... err...
+
+/r=12,NAME=Riku,
+I hope not...
+
+/l=2,NAME=Inumaru,
+OK let's go back
+You need help getting your pants on?
+
+/r=16,NAME=Riku,
+No I got it.
+
+/END=R05.html,
+
+/
+◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
+
+
+/LABEL=15,L=86,l=11,R=59,r=9,L_FLIP,NAME=Inumaru,
+OK
+Hold on...
+
+/l=9,
+(Am I really going to
+lose to this kid?)
+
+/
+　Maybe I could try to get...
+
+/
+　*grow grow*
+
+/L=90,l=11,
+OK! I
+should be the winner!
+
+/L_FLIP,l=3,NAME=Inumaru,
+Heh how do you like it?
+
+/R=51,r=14,NAME=Riku,
+!!!
+
+/
+His face turned red.
+
+/R=58,r=15,NAME=Riku,
+Y-you're hard
+but you are still smaller than me...
+
+/L=89,l=15,NAME=Inumaru,
+No way!
+
+/R=52,r=11,NAME=Riku,
+Let's take a closer look...
+
+/
+He puts his next to mine...
+We both look away in embarrassment.
+
+/l=9,
+(To be doing something
+like this with a student...)
+
+/r=14,NAME=Riku,
+Something wet is coming out...!
+
+/L=89,l=14,NAME=Inumaru,
+That's something only men
+like me can make. Maybe one
+day you too will-
+
+/r=17,NAME=Riku,
+I can make it! I'll get a stiffy too!
+
+/R=57,r=12,NAME=Riku,
+See look...
+
+/
+He began squeezing his penis.
+I stared at his as he stared at mine.
+
+/NAME=Inumaru,
+Oh that's....
+
+/NAME=Riku,R=1,L=1,BG=43,
+I'm a lot bigger than you now.
+
+/NAME=Inumaru,
+Well I've certainly lost
+now haven't I...
+
+/NAME=Riku,
+hhh... uh...uh uh
+
+/NAME=Inumaru,
+I see you can make yours wet too...
+
+/NAME=Riku,BG=44,
+Heh yeah...
+
+/NAME=Inumaru,
+Do you do that often?
+
+/NAME=Riku,
+Umm... yeah...
+
+/NAME=Inumaru,
+This is so hot...
+Sorry but...
+
+/BG=46,
+I reached out and touched it.
+
+
+/NAME=Riku,
+Ah!!
+
+/NAME=Inumaru,
+It's so hard.
+
+/NAME=Riku,
+Hh...don't... ahh
+
+/NAME=Inumaru,
+Oh sorry....
+
+/NAME=Riku,
+Hu..huh
+
+/NAME=Inumaru,
+If your dick is like this...
+can you even fit it back
+in to your pants?
+
+/NAME=Riku,
+...
+Probably not...
+
+/NAME=Inumaru,
+We had better take care of it!
+someone might come in!
+
+/NAME=Riku,BG=47,
+Take care of it?
+
+/
+I can feel him growing.
+
+/
+*throb*
+
+/NAME=Inumaru,
+...Just lean back and let me
+help you out.
+
+/NAME=Riku,
+Uh y-yeah!
+
+
+/BG=48,NAME=Inumaru,
+Does it feel good when I squeeze it?
+
+
+/NAME=Riku,
+Y-yes
+
+/NAME=Inumaru,
+I haven't been with anyone in awhile
+so I've gotten good at using my hand
+
+/NAME=Inumaru,
+Let me give you a good feeling...!
+
+
+/NAME=Riku,BG=49,
+Oh..ah...ha...ha...ah
+
+/
+(His foreskin looks tight)
+　
+/
+(It may be hard to pull it down)
+
+/
+*tug tug*
+　　　
+
+/NAME=Riku,
+Oh that kind of stings...
+　　　
+
+/NAME=Inumaru,
+Sorry...
+　　　
+
+/
+Gentle rubbing...
+　　　
+
+/
+It's getting thicker.
+　　　
+
+/NAME=Riku,
+?!
+　　　
+
+/BG=50,
+I spit in my hand a little.
+
+/NAME=Inumaru,
+This should help make it slick...
+
+/
+*schlop schlop schlop*
+
+/NAME=Riku,
+Oh oh 
+ahh
+hu haaa haa
+
+/NAME=Riku,
+Ah wow
+it... it's
+becoming sensitive...
+
+/NAME=Riku,
+It feels... agg
+it feels like something
+is going to come out
+　　　
+
+/NAME=Riku,BG=51,
+AHH!
+AH AH AH!!
+　　　
+/NAME=Inumaru,
+Okay... Okay...
+That's good!
+
+/NAME=Riku,
+Huhh huhhh...
+
+/NAME=Inumaru,
+You are so young...
+but you made so much...!
+
+/NAME=Riku,
+Oh! Please don't move your hand...
+
+/NAME=Inumaru,
+Oh sorry you must be
+very sensitive now
+
+/NAME=Riku,
+I made a mess all
+over your hand...
+It's embarassing
+
+/NAME=Inumaru,
+So?
+
+/NAME=Riku,BG=3,L=62,R=2,r=11,l=6,
+Lemme put my pants back on.
+
+/NAME=Riku,r=12,
+Y-you're a good teacher...
+
+/l=11,NAME=Inumaru,
+...
+
+/
+I patted him on the head.
+
+/NAME=Riku,r=2,
+Mmmm...
+
+/l=2,NAME=Inumaru,
+Ready to go back?
+
+/NAME=Riku,r=7,
+...yeah!
+
+/
+(His penis has softened while mine
+is still throbbing in my pants!!)
+
+/END=R04.html,
